@@ -3,10 +3,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-
-
-
-
 void reserved_print_arr(int arr[], size_t arr_len)
 {
     int i = 0;
